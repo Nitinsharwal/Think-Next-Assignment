@@ -1,6 +1,6 @@
 # Think-Next-Assignment
 Think Next Assignment
-Court Case Scraper & PDF Generator 🏛️📄
+Court Case Scraper & PDF Generator
 
 Fetch court case details from eCourts India
  and save them as PDFs or JSON. Search by CNR number or case type easily.
