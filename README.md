@@ -2,7 +2,7 @@
 Think Next Assignment
 Court Case Scraper & PDF Generator
 Steps : First activate virtual environment by command: 
-- windows : source task_env/scripts/activate.
+- windows : task_env\Scripts\Activate.
 - mac : source task_env/bin/activate.
 - download all required packages or library by command : pip install -r requirements.txt
 - run the file and add CNR (case number) 
